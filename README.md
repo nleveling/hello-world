@@ -1,5 +1,6 @@
 # hello-world
-repository for practicing GitHub Flow
+repository for practicing GitHub Flow:
+
 Name: Nathan Leveling
 Location: Washington DC
 Education Level: Masters of Science
